@@ -139,7 +139,7 @@ export default function HomePage() {
             name: "Stephen",
             lang: "🇨🇳 Chinese Learner",
             review:
-              "Jargon is a great supplement to my Chinese school, and lets me stay ahead of the curve with new vocab. The proficiency feature is great for matching what I&apos;m learning.",
+              "Jargon is a great supplement to my Chinese school, and lets me stay ahead of the curve with new vocab. The proficiency feature is great for matching what I am learning.",
             tilt: "rotate-[-4.85deg]",
             offset:
               "translate-x-[-30px] sm:translate-x-0 sm:translate-y-[-30px]",

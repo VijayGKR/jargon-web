@@ -207,6 +207,7 @@ const PanelContent = ({ onQuestionAnswered }: { onQuestionAnswered: () => void }
       const shadowHost = document.getElementById('shadowHost');
       if (shadowHost?.shadowRoot) {
         // Look for a button with green or red color, indicating an answer was selected
+        
         const answeredButton = shadowHost.shadowRoot.querySelector('.jg-bg-emerald-200, .jg-bg-red-500');
         if (answeredButton) {
           setIsQuestionAnswered(true);
